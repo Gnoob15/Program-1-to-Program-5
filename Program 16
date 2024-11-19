@@ -1,4 +1,4 @@
-//Program #16: Program to demonstrate the use of increment and decrement operators
+//Program #16: demonstrate the use of increment and decrement operators
 
 #include <iostream>
 using namespace std;
